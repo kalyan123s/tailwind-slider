@@ -54,7 +54,7 @@
     "lines-and-columns": "^1.2.4",
     "lru-cache": "^10.1.0",
     "merge2": "^1.4.1",
-    "micromatch": "^4.0.5",
+    "micromatch": "^4.0.6",
     "minimatch": "^9.0.3",
     "minipass": "^7.0.4",
     "mz": "^2.7.0",
