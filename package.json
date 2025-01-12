@@ -32,7 +32,7 @@
     "electron-to-chromium": "^1.4.642",
     "emoji-regex": "^9.2.2",
     "escalade": "^3.1.1",
-    "fast-glob": "^3.3.2",
+    "fast-glob": "^3.3.3",
     "fastq": "^1.16.0",
     "fill-range": "^7.0.1",
     "foreground-child": "^3.1.1",
